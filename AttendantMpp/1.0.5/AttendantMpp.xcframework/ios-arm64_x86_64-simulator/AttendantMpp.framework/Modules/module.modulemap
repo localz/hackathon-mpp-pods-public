@@ -1,0 +1,6 @@
+framework module AttendantMpp {
+    umbrella header "AttendantMpp.h"
+
+    export *
+    module * { export * }
+}
